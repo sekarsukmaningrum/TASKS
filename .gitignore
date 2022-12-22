@@ -1,0 +1,6 @@
+*.log
+*.cfg
+*.db
+*.pid
+*.err
+*.out
